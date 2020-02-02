@@ -1,0 +1,82 @@
+*, *:before, *:after {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+html, h1, h2, h3, p {
+    box-sizing: border-box;
+    line-height: 1.2em;
+    font-family: 'Open Sans', sans-serif;
+}
+
+img {
+	max-width: 100%;
+}
+
+section {
+    text-align: center;
+    padding: 1.4em;
+}
+
+#intro {
+    background-color:  #ff6699;
+}
+
+.fontname {
+    margin-top: -0.1em;
+    font-size: 6em;
+    color: ghostwhite;
+    font-family: 'Fredoka One', cursive;
+}
+
+.mini {
+    color: ghostwhite;
+    background-color: hsla(214, 100%, 0%, 0.9);
+    text-align: center;
+    padding: 1.4em;
+}
+
+
+
+.sampleparagraphs {
+    padding: 1em;
+    line-height: 1.4em;
+    letter-spacing: .1em;
+}
+
+h2 {
+    padding: 0.2em;
+}
+
+#addtoVSCode {
+    background-color: slategrey;
+    color: ghostwhite;
+}
+
+#addtoVSCode p {
+    letter-spacing: 0.1em;
+    padding: 0.1em;
+}
+
+/* Link Styles */
+
+a {
+    text-decoration: none;
+    color: lightskyblue;
+}
+
+a:active {
+    color: mediumorchid;
+}
+
+a:visited {
+    color: darkorchid;
+}
+
+a:hover {
+    color: lavender;
+}
+
+
+

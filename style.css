@@ -24,6 +24,13 @@ img {
     width: 100%;
 }
 
+/* SVG sizing */
+
+svg {
+    width: 100%;
+    height: 20vh;
+}
+
 /* Media Queries time */
 
 
