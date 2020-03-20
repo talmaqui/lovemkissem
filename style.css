@@ -47,4 +47,12 @@ svg {
 #paragraphs {
     width: 60%;
     margin: auto;
+    background-color: lavenderblush;
+    padding: 1em;
+    border-width: 0.2rem;
+	border-style: solid;
+	border-image: linear-gradient(to right, #e0a0cb,#9a86c4) 1;
+}
+#paragraphs:hover {
+	border-image: linear-gradient(to right, #9a86c4, #e0a0cb) 1;
 }
