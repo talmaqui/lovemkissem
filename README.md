@@ -2,6 +2,9 @@
 a website for my romance poetry generated lorem ipsum! 💕 
 
 # about
+
+note: repo was private but i'm not using github pro anymore, so give me a while to get the site visible again lol
+
 i used Beautiful Soup to grab romance poems, found the words that occurred the most in the poetry (with obvious exclusions) and scrambled the words to create a lorem ipsum generator! the creation of the words used in the generator was done entirely in python. for the web, the site was built with javascript. i love love! i want love to be in everything i do, so i wanted to make a lorem ipsum pulled from that source. intially i was going to use rom-com scripts, but i thought poetry was more tech anyway (: 
 
 # ❤️️ bonus!❤️️
