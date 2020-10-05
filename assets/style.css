@@ -1,0 +1,58 @@
+
+/* Font Styles */
+
+h1, h2 {
+    text-align: center;
+    font-family: 'Source Sans Pro', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 0.1rem;
+}
+
+p {
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#lovem {
+    text-decoration: underline;
+}
+
+
+/* Image Styles */
+
+img {
+    width: 100%;
+}
+
+/* SVG sizing */
+
+svg {
+    width: 100%;
+    height: 20vh;
+}
+
+/* Media Queries time */
+
+
+@media (min-width: 760px) { 
+    
+    img {
+        width: 50%;
+    }
+
+}
+
+/* container */
+
+#paragraphs {
+    width: 60%;
+    margin: auto;
+    background-color: lavenderblush;
+    padding: 1em;
+    border-width: 0.2rem;
+	border-style: solid;
+	border-image: linear-gradient(to right, #e0a0cb,#9a86c4) 1;
+}
+#paragraphs:hover {
+	border-image: linear-gradient(to right, #9a86c4, #e0a0cb) 1;
+}
